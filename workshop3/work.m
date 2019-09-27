@@ -1,0 +1,13 @@
+format long;
+clear;
+R_hi=50;
+R_lo=3.90257;
+X_l=-60.1428;
+f=1.5*10^9;
+pi=3.1415926;
+m=R_hi/R_lo;
+Q=sqrt(m-1);
+Xs=Q*R_lo;
+Xp=-Xs*(1+Q^-2);
+C=-1/(Xp*2*pi*f);
+H=(Xs-X_l)/(2*pi*f);

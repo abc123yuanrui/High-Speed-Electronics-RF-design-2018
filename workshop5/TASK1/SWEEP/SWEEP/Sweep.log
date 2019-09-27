@@ -1,0 +1,21 @@
+Circuit: * D:\onedrive\OneDrive - The University of Melbourne\High Speed\05 Workshops\wslogic\hsewslogic1\sch\SWEEP\Sweep.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Sep 29 21:06:44 2018
+Total elapsed time: 0.946 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 40210
+traniter = 40204
+tranpoints = 20103
+accept = 20081
+rejected = 22
+matrix size = 9
+fillins = 0
+solver = Normal
+Matrix Compiler1:      26 opcodes  0.2/[0.1]/0.1
+Matrix Compiler2: off  [0.1]/0.1/0.1
+

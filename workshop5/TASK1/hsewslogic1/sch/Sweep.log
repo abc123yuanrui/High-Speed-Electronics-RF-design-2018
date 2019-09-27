@@ -1,0 +1,22 @@
+Circuit: * C:\Users\123ab\OneDrive\Documents\Learning_Material\HSE\workshop\workshop5\TASK1\hsewslogic1\sch\Sweep.asc
+
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 2.00002e-007
+Direct Newton iteration for .op point succeeded.
+
+Date: Sat Oct 13 14:01:16 2018
+Total elapsed time: 0.116 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 731
+traniter = 718
+tranpoints = 343
+accept = 323
+rejected = 20
+matrix size = 10
+fillins = 2
+solver = Normal
+Matrix Compiler1: 666 bytes object code size  0.1/0.1/[0.1]
+Matrix Compiler2: 808 bytes object code size  0.1/0.2/[0.1]
+

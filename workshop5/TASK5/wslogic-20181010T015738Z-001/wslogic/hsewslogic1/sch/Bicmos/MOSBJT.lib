@@ -1,0 +1,12 @@
+.MODEL MN NMOS (level=3 vto=.7 kp=4.e-5 gamma=1.1 phi=.6
++ rd=40 rs=40 pb=.7 cgso=3.e-10 cgdo=3.e-10 cgbo=5.e-10
++ rsh=25 cj=.00044 mj=.5 mjsw=.3 js=1.e-5 tox=5.e-8 nsub=1.7e16
++ nss=0 nfs=0 tpg=1 xj=6.e-7 ld=3.5e-7 uo=755 vmax=100000
++ theta=.11 eta=.05 kappa=1)
+.MODEL MP PMOS (level=3 vto=-.8 kp=1.2e-5 gamma=.6 phi=.6
++ rd=100 rs=100 pb=.6 cgso=2.5e-10 cgdo=2.5e-10 cgbo=5.e-10
++ rsh=25 cj=.00044 mj=.5 mjsw=.3 js=1.e-5 tox=5.e-8 nsub=5.e15
++ nss=0 nfs=0 tpg=1 xj=5.e-7 ld=2.5e-7 uo=250 vmax=70000
++ theta=.13 eta=.3 kappa=1)
+.MODEL  QN  NPN  (Is=10fA  Bf=100  Br=1  Tf=1.0ns  Cje=1pF  Cjc=1.5pF Va=100)
+.MODEL  QP  PNP  (Is=10fA  Bf=100  Br=1  Tf=1.0ns  Cje=1pF  Cjc=1.5pF Va=100)

@@ -1,0 +1,21 @@
+Circuit: * C:\Users\123ab\OneDrive\Documents\Learning_Material\HSE\workshop\workshop5\TASK5\wslogic-20181010T015738Z-001\wslogic\hsewslogic1\sch\Bicmos\BICMOS-0.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 21 15:00:22 2018
+Total elapsed time: 0.326 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6496
+traniter = 6488
+tranpoints = 2691
+accept = 2575
+rejected = 116
+matrix size = 17
+fillins = 0
+solver = Normal
+Matrix Compiler1: 858 bytes object code size  0.2/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.2/0.2
+

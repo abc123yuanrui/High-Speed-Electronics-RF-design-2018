@@ -1,0 +1,21 @@
+Circuit: * C:\Users\123ab\OneDrive\Documents\Learning_Material\HSE\workshop\workshop5\TASK4\CMOS\CMOS\CMOS.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Sun Oct 21 09:36:48 2018
+Total elapsed time: 0.390 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16525
+traniter = 16507
+tranpoints = 4937
+accept = 4003
+rejected = 934
+matrix size = 22
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.72 KB object code size  0.4/0.2/[0.1]
+Matrix Compiler2: off  [0.1]/0.3/0.2
+
